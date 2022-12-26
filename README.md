@@ -1,2 +1,2 @@
 # Airdrop
-Belirli token ve NFT holderlarına airdrop dağıtmak
+Belirli token ve NFT holderlarına airdrop dağıtmak. Yazar: Bora
